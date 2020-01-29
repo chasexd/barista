@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{100:function(a){a.exports=JSON.parse('{"allTagsPath":"/pages/Optum/barista/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/pages/Optum/barista/blog/tags/hola"}')}}]);
